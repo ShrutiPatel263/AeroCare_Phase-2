@@ -172,5 +172,3 @@ Run notebooks in order:
 🎓 B.E. Computer Science And Engineering(Data Science)
 💡 Machine Learning | Deep Learning | AI
 
-
-Just tell me 👍
